@@ -1,0 +1,7 @@
+Desert Oasis: A shimmering oasis nestled amidst the endless sands of the Arabian desert.:Sand Dunes:Winding Canyon:-:-:Diamond|the fabled Desert Jewel.:Embark on a quest to find the elusive Desert Jewel hidden within the vast desert sands.
+Sand Dunes: Endless stretches of golden sand dunes, where the wind paints intricate patterns.:Rocky Pass:Desert Oasis:-:-:Scimitar|a curved blade forged in ancient fires, and Key|an ornate key said to unlock ancient tombs.:Confront the Ottom Soldier and emerge victorious with the Scimitar and Key.
+Rocky Pass: Treacherous cliffs and rocky terrain mark the path through the mountainous region.:Cave Entrance:-:Sand Dunes:-:Key|a mysterious key that holds the secrets of the ancients.:Discover the hidden depths of the cavern and unlock its ancient mysteries.
+Cave Entrance: A foreboding cave entrance, its dark depths beckoning the brave and curious.:Treasure Chamber:-:-:Rocky Pass:-
+Treasure Chamber: A legendary chamber filled with untold riches and ancient artifacts.::-:-:Cave Entrance:-
+Winding Canyon: A deep canyon carved by centuries of wind and water, its walls towering overhead.:Desert Oasis:Nomad Camp:-:-
+Nomad Camp: A bustling campsite, where travelers from far and wide converge amidst the shifting sands.:Winding Canyon:-:-:-|Embark on a journey to uncover the secrets of the desert.

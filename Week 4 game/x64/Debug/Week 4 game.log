@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Week 4 game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Area.cpp
+  Charater.cpp
+  Command.cpp
+  Enemy.cpp
+  HealthBar.cpp
+  Item.cpp
+  NPC.cpp
+  Player.cpp
+  Quest.cpp
+  Room.cpp
+  Main.cpp
+  StartScreen.cpp
+  Generating Code...
+  Week 4 game.vcxproj -> C:\Users\akinb\source\repos\Week 4 game\x64\Debug\maingame.exe
